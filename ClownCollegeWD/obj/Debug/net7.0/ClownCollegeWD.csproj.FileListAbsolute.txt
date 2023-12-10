@@ -280,3 +280,4 @@ C:\Users\MrMcQuinn\Documents\School\Comp Sci\340\csci340lab9\ClownCollegeWD\bin\
 C:\Users\MrMcQuinn\Documents\School\Comp Sci\340\csci340lab9\ClownCollegeWD\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
 C:\Users\MrMcQuinn\Documents\School\Comp Sci\340\csci340lab9\ClownCollegeWD\obj\Debug\net7.0\ClownCollegeWD.csproj.AssemblyReference.cache
 C:\Users\MrMcQuinn\Documents\School\Comp Sci\340\csci340lab9\ClownCollegeWD\obj\Debug\net7.0\ClownCollegeWD.csproj.CopyComplete
+C:\Users\MrMcQuinn\Documents\School\Comp Sci\340\csci340lab9\ClownCollegeWD\obj\Debug\net7.0\ClownCollegeWD.sourcelink.json
