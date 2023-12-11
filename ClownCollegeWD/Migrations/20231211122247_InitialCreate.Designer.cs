@@ -11,8 +11,8 @@ using Microsoft.EntityFrameworkCore.Storage.ValueConversion;
 namespace ClownCollegeWD.Migrations
 {
     [DbContext(typeof(SchoolContext))]
-    [Migration("20231211060917_Complexity")]
-    partial class Complexity
+    [Migration("20231211122247_InitialCreate")]
+    partial class InitialCreate
     {
         /// <inheritdoc />
         protected override void BuildTargetModel(ModelBuilder modelBuilder)
@@ -50,6 +50,10 @@ namespace ClownCollegeWD.Migrations
 
                     b.Property<decimal>("Budget")
                         .HasColumnType("money");
+
+                    b.Property<Guid>("ConcurrencyToken")
+                        .IsConcurrencyToken()
+                        .HasColumnType("TEXT");
 
                     b.Property<int?>("InstructorID")
                         .HasColumnType("INTEGER");
