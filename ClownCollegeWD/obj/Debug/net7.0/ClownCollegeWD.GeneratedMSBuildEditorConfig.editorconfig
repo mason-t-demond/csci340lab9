@@ -9,63 +9,63 @@ build_property.EnforceExtendedAnalyzerRules =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = ClownCollegeWD
 build_property.RootNamespace = ClownCollegeWD
-build_property.ProjectDir = c:\Users\MrMcQuinn\Documents\School\Comp Sci\340\csci340lab9\ClownCollegeWD\
+build_property.ProjectDir = C:\Users\MrMcQuinn\Documents\School\Comp Sci\340\csci340lab9\ClownCollegeWD\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 
 build_property.RazorLangVersion = 7.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = c:\Users\MrMcQuinn\Documents\School\Comp Sci\340\csci340lab9\ClownCollegeWD
+build_property.MSBuildProjectDirectory = C:\Users\MrMcQuinn\Documents\School\Comp Sci\340\csci340lab9\ClownCollegeWD
 build_property._RazorSourceGeneratorDebug = 
 
-[c:/Users/MrMcQuinn/Documents/School/Comp Sci/340/csci340lab9/ClownCollegeWD/Pages/About.cshtml]
+[C:/Users/MrMcQuinn/Documents/School/Comp Sci/340/csci340lab9/ClownCollegeWD/Pages/About.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQWJvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[c:/Users/MrMcQuinn/Documents/School/Comp Sci/340/csci340lab9/ClownCollegeWD/Pages/Error.cshtml]
+[C:/Users/MrMcQuinn/Documents/School/Comp Sci/340/csci340lab9/ClownCollegeWD/Pages/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRXJyb3IuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[c:/Users/MrMcQuinn/Documents/School/Comp Sci/340/csci340lab9/ClownCollegeWD/Pages/Index.cshtml]
+[C:/Users/MrMcQuinn/Documents/School/Comp Sci/340/csci340lab9/ClownCollegeWD/Pages/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[c:/Users/MrMcQuinn/Documents/School/Comp Sci/340/csci340lab9/ClownCollegeWD/Pages/Privacy.cshtml]
+[C:/Users/MrMcQuinn/Documents/School/Comp Sci/340/csci340lab9/ClownCollegeWD/Pages/Privacy.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUHJpdmFjeS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[c:/Users/MrMcQuinn/Documents/School/Comp Sci/340/csci340lab9/ClownCollegeWD/Pages/Shared/_ValidationScriptsPartial.cshtml]
+[C:/Users/MrMcQuinn/Documents/School/Comp Sci/340/csci340lab9/ClownCollegeWD/Pages/Shared/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[c:/Users/MrMcQuinn/Documents/School/Comp Sci/340/csci340lab9/ClownCollegeWD/Pages/Students/Create.cshtml]
+[C:/Users/MrMcQuinn/Documents/School/Comp Sci/340/csci340lab9/ClownCollegeWD/Pages/Students/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU3R1ZGVudHNcQ3JlYXRlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[c:/Users/MrMcQuinn/Documents/School/Comp Sci/340/csci340lab9/ClownCollegeWD/Pages/Students/Delete.cshtml]
+[C:/Users/MrMcQuinn/Documents/School/Comp Sci/340/csci340lab9/ClownCollegeWD/Pages/Students/Delete.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU3R1ZGVudHNcRGVsZXRlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[c:/Users/MrMcQuinn/Documents/School/Comp Sci/340/csci340lab9/ClownCollegeWD/Pages/Students/Details.cshtml]
+[C:/Users/MrMcQuinn/Documents/School/Comp Sci/340/csci340lab9/ClownCollegeWD/Pages/Students/Details.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU3R1ZGVudHNcRGV0YWlscy5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[c:/Users/MrMcQuinn/Documents/School/Comp Sci/340/csci340lab9/ClownCollegeWD/Pages/Students/Edit.cshtml]
+[C:/Users/MrMcQuinn/Documents/School/Comp Sci/340/csci340lab9/ClownCollegeWD/Pages/Students/Edit.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU3R1ZGVudHNcRWRpdC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[c:/Users/MrMcQuinn/Documents/School/Comp Sci/340/csci340lab9/ClownCollegeWD/Pages/Students/Index.cshtml]
+[C:/Users/MrMcQuinn/Documents/School/Comp Sci/340/csci340lab9/ClownCollegeWD/Pages/Students/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU3R1ZGVudHNcSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[c:/Users/MrMcQuinn/Documents/School/Comp Sci/340/csci340lab9/ClownCollegeWD/Pages/_ViewImports.cshtml]
+[C:/Users/MrMcQuinn/Documents/School/Comp Sci/340/csci340lab9/ClownCollegeWD/Pages/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[c:/Users/MrMcQuinn/Documents/School/Comp Sci/340/csci340lab9/ClownCollegeWD/Pages/_ViewStart.cshtml]
+[C:/Users/MrMcQuinn/Documents/School/Comp Sci/340/csci340lab9/ClownCollegeWD/Pages/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[c:/Users/MrMcQuinn/Documents/School/Comp Sci/340/csci340lab9/ClownCollegeWD/Pages/Shared/_Layout.cshtml]
+[C:/Users/MrMcQuinn/Documents/School/Comp Sci/340/csci340lab9/ClownCollegeWD/Pages/Shared/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2hhcmVkXF9MYXlvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = b-oemc6yt2m7
