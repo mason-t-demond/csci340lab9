@@ -138,6 +138,9 @@ namespace ClownCollegeWD.Migrations
                         .ValueGeneratedOnAdd()
                         .HasColumnType("INTEGER");
 
+                    b.Property<int>("Age")
+                        .HasColumnType("INTEGER");
+
                     b.Property<DateTime>("EnrollmentDate")
                         .HasColumnType("TEXT");
 

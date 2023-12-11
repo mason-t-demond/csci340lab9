@@ -11,7 +11,7 @@ using Microsoft.EntityFrameworkCore.Storage.ValueConversion;
 namespace ClownCollegeWD.Migrations
 {
     [DbContext(typeof(SchoolContext))]
-    [Migration("20231211122247_InitialCreate")]
+    [Migration("20231211125254_InitialCreate")]
     partial class InitialCreate
     {
         /// <inheritdoc />
@@ -139,6 +139,9 @@ namespace ClownCollegeWD.Migrations
                 {
                     b.Property<int>("ID")
                         .ValueGeneratedOnAdd()
+                        .HasColumnType("INTEGER");
+
+                    b.Property<int>("Age")
                         .HasColumnType("INTEGER");
 
                     b.Property<DateTime>("EnrollmentDate")
