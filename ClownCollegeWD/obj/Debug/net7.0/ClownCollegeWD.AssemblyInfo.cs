@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ClownCollegeWD")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+61cdc2121ae31d5c3ff356eb110995bf1d9d572f")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
 [assembly: System.Reflection.AssemblyProductAttribute("ClownCollegeWD")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ClownCollegeWD")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

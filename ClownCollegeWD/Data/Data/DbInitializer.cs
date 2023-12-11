@@ -306,7 +306,8 @@ namespace ClownCollegeWD.Data
                 },
                 new Enrollment {
                     Student = anand,
-                    Course = chemistry
+                    Course = chemistry,
+                    Grade = Grade.I
                 },
                 new Enrollment {
                     Student = anand,
