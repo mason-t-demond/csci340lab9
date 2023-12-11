@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "nGPegkfnuZOhbVordHuAXOuAf4gJpijD0Z+zbC/X8JdWPSzpz8PziL9njSN0EK8E0yGo2ybqP6ADAdN+VGYD5Q==",
+  "dgSpecHash": "NIZf8orVKE47s4F7JG3fd7EgIVys56FDyfYO0qoSXgRznXrTZpDvYqlUjY/k2m5+TGLihJGmiHw5CyXcljMg9Q==",
   "success": true,
-  "projectFilePath": "C:\\Users\\MrMcQuinn\\Documents\\School\\Comp Sci\\340\\csci340lab9\\ClownCollegeWD\\ClownCollegeWD.csproj",
+  "projectFilePath": "c:\\Users\\MrMcQuinn\\Documents\\School\\Comp Sci\\340\\csci340lab9\\ClownCollegeWD\\ClownCollegeWD.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\MrMcQuinn\\.nuget\\packages\\azure.core\\1.25.0\\azure.core.1.25.0.nupkg.sha512",
     "C:\\Users\\MrMcQuinn\\.nuget\\packages\\azure.identity\\1.7.0\\azure.identity.1.7.0.nupkg.sha512",

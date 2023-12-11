@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\MrMcQuinn\\Documents\\School\\Comp Sci\\340\\csci340lab9\\ClownCollegeWD\\ClownCollegeWD.csproj": {}
+    "c:\\Users\\MrMcQuinn\\Documents\\School\\Comp Sci\\340\\csci340lab9\\ClownCollegeWD\\ClownCollegeWD.csproj": {}
   },
   "projects": {
-    "C:\\Users\\MrMcQuinn\\Documents\\School\\Comp Sci\\340\\csci340lab9\\ClownCollegeWD\\ClownCollegeWD.csproj": {
+    "c:\\Users\\MrMcQuinn\\Documents\\School\\Comp Sci\\340\\csci340lab9\\ClownCollegeWD\\ClownCollegeWD.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\MrMcQuinn\\Documents\\School\\Comp Sci\\340\\csci340lab9\\ClownCollegeWD\\ClownCollegeWD.csproj",
+        "projectUniqueName": "c:\\Users\\MrMcQuinn\\Documents\\School\\Comp Sci\\340\\csci340lab9\\ClownCollegeWD\\ClownCollegeWD.csproj",
         "projectName": "ClownCollegeWD",
-        "projectPath": "C:\\Users\\MrMcQuinn\\Documents\\School\\Comp Sci\\340\\csci340lab9\\ClownCollegeWD\\ClownCollegeWD.csproj",
+        "projectPath": "c:\\Users\\MrMcQuinn\\Documents\\School\\Comp Sci\\340\\csci340lab9\\ClownCollegeWD\\ClownCollegeWD.csproj",
         "packagesPath": "C:\\Users\\MrMcQuinn\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\MrMcQuinn\\Documents\\School\\Comp Sci\\340\\csci340lab9\\ClownCollegeWD\\obj\\",
+        "outputPath": "c:\\Users\\MrMcQuinn\\Documents\\School\\Comp Sci\\340\\csci340lab9\\ClownCollegeWD\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\MrMcQuinn\\AppData\\Roaming\\NuGet\\NuGet.Config",
